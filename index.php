@@ -32,7 +32,7 @@
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <link rel="icon" type="image" href="icon.png">
 
-    <title>Madridejosss Community College</title>
+    <title>Madridejos Community College</title>
     <meta name="robots" content="noindex, nofollow">
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="alternate" type="application/rss+xml" title="Madridejos Community College &raquo; Feed"
