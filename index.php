@@ -32,12 +32,12 @@
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <link rel="icon" type="image" href="icon.png">
 
-    <title>Madridejos Community College</title>
+    <title>Madridejoss Community College</title>
     <meta name="robots" content="noindex, nofollow">
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
-    <link rel="alternate" type="application/rss+xml" title="Madridejos Community College &raquo; Feed"
+    <link rel="alternate" type="application/rss+xml" title="Madridejoss Community College &raquo; Feed"
         href="./feed/index.html">
-    <link rel="alternate" type="application/rss+xml" title="Madridejos Community College &raquo; Comments Feed"
+    <link rel="alternate" type="application/rss+xml" title="Madridejoss Community College &raquo; Comments Feed"
         href="./comments/feed/index.html">
     <script>
     window._wpemojiSettings = {
