@@ -179,7 +179,7 @@
                             
                             
                             <p style="float: left;"><a href="../../../index.php" style="margin-bottom: 15px; display: block; text-align: right;">Back Home</a></p>
-                            <p style="float: right ;"><a href="forgot-password.php" style="margin-bottom: 15px; display: block; text-align: right;">Sign Up</a></p>
+                            <p style="float: right ;"><a href="forgot-password.php" style="margin-bottom: 15px; display: block; text-align: right;">Forgot Password</a></p>
                             <button name="submit" name="submit" class="btn" type="submit">Login</button>
                         </form>
                         
